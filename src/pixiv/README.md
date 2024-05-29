@@ -8,4 +8,4 @@ tag:
 
 ---
 # 本站来自Pixiv的涩图の导航🧭
-![bgimage](/img/1.jpg)
+![bgimage](/img/general/1.jpg)
