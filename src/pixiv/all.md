@@ -11,3 +11,4 @@ tag:
 # 本站收录的Pixiv涩图大合集
 > [!tip]
 > 图片较多，建议开梯
+![bgimage](/img/general/1.jpg)
